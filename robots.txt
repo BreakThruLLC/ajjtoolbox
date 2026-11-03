@@ -1,0 +1,4 @@
+# Crawling allowed on purpose so the per-page "noindex" is seen and honored,
+# which keeps these pages out of search results.
+User-agent: *
+Disallow:
